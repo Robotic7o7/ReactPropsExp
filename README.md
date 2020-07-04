@@ -1,6 +1,8 @@
-# React Instagram Friend Suggestions Clone
+# React Props Expeiment
 
-> This project is made as a part of my experiments with react, This project features a Clone of the Instagram Suggestions Component replicated using react. Covers the use or Sliding components and the use of API's to generate Randome names and images in the Friends Suggestion Card.
+> An experiment with React Props, As I realized I forgot how to work with React Props so did this to brush up my react skills before jumping into an API Project.
+
+![Project Image](public/images/Preview1.png)
 
 # View Deployment
 
